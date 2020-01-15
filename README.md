@@ -6,6 +6,6 @@ The following figure represents the power spectra for different values of the da
 
 ![power_spectra](power_spectrum/func_jk/ps_JC.pdf)
 
-![second_order_g](frequency_resolved/g2_JC.pdf)
+![g2(0)](frequency_resolved/g2_JC.pdf)
 
-![second_order_g](time_resolved/g2t_JC.pdf)
+![g2(tau)](time_resolved/g2t_JC.pdf)
