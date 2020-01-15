@@ -5,3 +5,7 @@ This code computes the power spectrum and the frequency- and time-resolved corre
 The following figure represents the power spectra for different values of the damping of the mode:
 
 ![power_spectra](power_spectrum/func_jk/ps_JC.pdf)
+
+![second_order_g](frequency_resolved/g2_JC.pdf)
+
+![second_order_g](time_resolved/g2t_JC.pdf)
